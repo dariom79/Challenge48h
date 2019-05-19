@@ -24,7 +24,7 @@ python print_tree.py <outputfile.json>
 
 This will be the output:
 
-![Screenshot](screenshot.png)
+![Screenshot](SOLUTION.png)
 
 
 Best Regards,
