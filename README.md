@@ -8,9 +8,11 @@ Here the scrapy spider that scraps of all options in the dropdowns, recursively.
 To run it:
 
 cd dario_challenge/dario_challenge/spiders
+
 scrapy crawl DecisionTree
 
 For each element will be log in output (as "DEBUG") the element itself and its parent.
+
 For example: {'element': 'B', 'parent': 'A'}
 
 For a better experience, I suggest you to put the output in a JSON file:
@@ -28,6 +30,7 @@ This will be the output:
 
 
 Best Regards,
+
  Dario Mastroeni
    
    
