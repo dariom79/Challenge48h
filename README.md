@@ -24,43 +24,11 @@ python print_tree.py <outputfile.json>
 
 This will be the output:
 
-A
-├── C
-│   ├── D
-│   │   ├── H
-│   │   │   └── R
-│   │   ├── I
-│   │   │   ├── S
-│   │   │   ├── T
-│   │   │   └── U
-│   │   └── J
-│   │       └── V
-│   └── E
-│       ├── K
-│       │   └── X
-│       └── L
-│           ├── Y
-│           └── Z
-└── B
-    ├── F
-    │   ├── M
-    │   │   └── 1
-    │   └── N
-    │       ├── 2
-    │       └── 3
-    └── G
-        ├── O
-        │   ├── 4
-        │   └── 5
-        ├── P
-        │   ├── 9
-        │   └── 6
-        └── Q
-
+![Screenshot](screenshot.png)
 
 
 Best Regards,
-   Dario Mastroeni
+ Dario Mastroeni
    
    
 Ps: be aware to delete "outputfile.json" before of a rerun: it will append the new output instead of overwrite.
