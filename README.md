@@ -28,8 +28,40 @@ python print_tree.py <outputfile.json>
 
 This will be the output:
 
-![Screenshot](SOLUTION.png)
-
+```
+A
+├── C
+│   ├── D
+│   │   ├── H
+│   │   │   └── R
+│   │   ├── I
+│   │   │   ├── S
+│   │   │   ├── T
+│   │   │   └── U
+│   │   └── J
+│   │       └── V
+│   └── E
+│       ├── K
+│       │   └── X
+│       └── L
+│           ├── Y
+│           └── Z
+└── B
+    ├── F
+    │   ├── M
+    │   │   └── 1
+    │   └── N
+    │       ├── 2
+    │       └── 3
+    └── G
+        ├── O
+        │   ├── 4
+        │   └── 5
+        ├── P
+        │   ├── 9
+        │   └── 6
+        └── Q
+```
 
 Best Regards,
 
