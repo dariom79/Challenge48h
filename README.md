@@ -4,7 +4,7 @@ Scrapy Decision Tree
 by Dario Mastroeni
 ---------------------
 
-Here the scrapy spider that scraps of all options in the dropdowns, recursively.
+Here the scrapy spider that scraps of all options in the dropdowns, recursively (file: <b>decision_tree.py</b>).
 To run it:
 ```
 cd dario_challenge/dario_challenge/spiders
